@@ -5,7 +5,7 @@ You can group by a column not present in the column collection by adding the pro
 
 The provided code below illustrates how to group by a column not defined in the SfDataGrid.Columns collection.
 
- 
+ ##### xaml:
  ```XML
  <syncfusion:SfDataGrid ColumnWidthMode="Auto"
                        AutoGenerateColumnsMode="None"
